@@ -3,5 +3,5 @@
  - *Final Grade:* **Exceeds Expectations**
  
  ## About this project
- - Customize a personal online profile by adding graphics, customizing text, and improving the look of a web page using CSS (Cascading Style Sheets), the formatting language of the web. Share the finished project on GitHub, a service used by teams of programmers to share and work on programming code.
+ Customize a personal online profile by adding graphics, customizing text, and improving the look of a web page using CSS (Cascading Style Sheets), the formatting language of the web. Share the finished project on GitHub, a service used by teams of programmers to share and work on programming code.
 
